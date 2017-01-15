@@ -1,16 +1,20 @@
-Buenas aca les presento un parte de mi trabajo en el desarrollo 
-de un launcher basado para servidor de world of warcrafr
-en la version vanilla hasta pandaria con uso de encriptacion
-de contraseña, login, registro, cambio de contraseña, 
-auto login automatico etc..
+Buenas aca les presento un parte
+de mi trabajo en el desarrollo 
+de un launcher basado para servidor de
+world of warcrafr en la version vanilla
+hasta pandaria con uso de encriptacion
+de contraseña, login, registro, cambio de
+contraseña, auto login automatico etc..
 
-espero que difruten el trabajo, debes cambiar algunas cadenas 
-con valores de la conexion a mysql por ejemplo
+espero que difruten el trabajo, debes 
+cambiar algunas cadenas  con valores de la 
+conexion a mysql por ejemplo
 
 Private ruta As String = server=ip;user id=usuarioDB;password=contraseña;database=DB;persistsecurityinfo=True
 
-asi estaran activas las conexion a la base de datos deseada si necesitas
-ayuda puede comunicarte conmigo https://www.facebook.com/carlos.castilla.79
+asi estaran activas las conexion a la base
+de datos deseada si necesitas ayuda puede 
+comunicarte conmigo https://www.facebook.com/carlos.castilla.79
 
 estare atentos para ayudarlos
 
