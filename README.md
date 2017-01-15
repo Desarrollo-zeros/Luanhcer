@@ -1,10 +1,34 @@
-1: Para generar la conexiones desde la parte de configuaraciones para que se te haga mas fácil general las cadenas pertinentes 
-2: debes revisar la capa de datos y renombrar las variables con las conexión que vas a usar 
-3: manejo de 4 capas 
-a: Entidades ---> Capas de uso variables generales para conexiones, usos de datos get y set etc..
-b: Datos ---> Capa de conexión de base datos y archivos, conexión de punto a punto mysql, file
-c: Lógica ----> aca es el juego de la mente para generar como se va guardar,editar, borrar etc.. encriptamiento y mas
-d: presentación ----> aca es la capa de presentación o como vas a tener la interfaz gráfica la parte mas fácil PTDA: acá soy malo yo :P no se dibujar .....
-Estaré mandando el código mas tarde :P rev 0.1 es la primera versión de este launcher que hice estaré actualizándolo con mas funciones como tienda correos etc...
-este launcher iba ser usado como la primera versión en wow-letal pero el proyecto se cerro por que unos de los admin no quería seguir y pues mi persona, no tiene le tiempo para ello
-tiempo de elaboración 4 dias
+Buenas aca les presento un parte de mi trabajo en el desarrollo 
+de un launcher basado para servidor de world of warcrafr
+en la version vanilla hasta pandaria con uso de encriptacion
+de contraseña, login, registro, cambio de contraseña, 
+auto login automatico etc..
+
+espero que difruten el trabajo, debes cambiar algunas cadenas 
+con valores de la conexion a mysql por ejemplo
+
+Private ruta As String = server=ip;user id=usuarioDB;password=contraseña;database=DB;persistsecurityinfo=True
+
+asi estaran activas las conexion a la base de datos deseada si necesitas
+ayuda puede comunicarte conmigo https://www.facebook.com/carlos.castilla.79
+
+estare atentos para ayudarlos
+
+Version de Visual a trabajar 
+
+Visual studio 2013 
+Visual studio 2015
+
+Dll usadas 
+https://github.com/Desarrollo-zeros/Luanhcer/blob/master/MySql.Data.dll
+https://github.com/Desarrollo-zeros/Luanhcer/blob/master/AlphaBlendTextBox.dll 
+
+Dll creadas
+
+entidades.dll
+datos.dll
+logica.dll
+
+.exe creado
+
+presentacion.exe
