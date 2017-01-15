@@ -1,0 +1,8 @@
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Entidades\bin\Release\Entidades.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Entidades\bin\Release\Entidades.pdb
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Entidades\bin\Release\Entidades.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Entidades\obj\Release\Entidades.Resources.resources
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Entidades\obj\Release\Entidades.vbproj.GenerateResource.Cache
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Entidades\obj\Release\Entidades.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Entidades\obj\Release\Entidades.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Entidades\obj\Release\Entidades.pdb

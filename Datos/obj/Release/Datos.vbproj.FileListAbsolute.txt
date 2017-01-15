@@ -1,0 +1,13 @@
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\bin\Release\Datos.dll.config
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\bin\Release\Datos.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\bin\Release\Datos.pdb
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\bin\Release\Datos.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\bin\Release\Entidades.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\bin\Release\Entidades.pdb
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\bin\Release\Entidades.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\obj\Release\Datos.vbprojResolveAssemblyReference.cache
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\obj\Release\Datos.Resources.resources
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\obj\Release\Datos.vbproj.GenerateResource.Cache
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\obj\Release\Datos.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\obj\Release\Datos.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Datos\obj\Release\Datos.pdb

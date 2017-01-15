@@ -1,0 +1,4 @@
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Debug\Interop.WMPLib.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache

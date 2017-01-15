@@ -1,0 +1,42 @@
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Presentacion.exe.config
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Presentacion.exe
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Presentacion.pdb
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Presentacion.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Datos.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Entidades.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Logica.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Datos.pdb
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Datos.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Entidades.pdb
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Entidades.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Logica.pdb
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Logica.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\Interop.WMPLib.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\bin\Release\AxInterop.WMPLib.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Interop.WMPLib.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\AxInterop.WMPLib.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.vbproj.ResolveComReference.cache
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.account.resources
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.Cuenta.resources
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.Login.resources
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.Resources.resources
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.online.resources
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.Panel.resources
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.Registro.resources
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.WoW_Letals.resources
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.vbproj.GenerateResource.Cache
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.exe
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.pdb
+C:\Users\zeros\Documents\Launcher(WoW-Letal)\Presentacion\bin\Release\Presentacion.exe.config
+C:\Users\zeros\Documents\Launcher(WoW-Letal)\Presentacion\obj\Release\Interop.WMPLib.dll
+C:\Users\zeros\Documents\Launcher(WoW-Letal)\Presentacion\obj\Release\AxInterop.WMPLib.dll
+C:\Users\zeros\Documents\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.vbproj.ResolveComReference.cache
+C:\Users\zeros\Documents\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.exe
+C:\Users\zeros\Documents\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.xml
+C:\Users\zeros\Documents\Launcher(WoW-Letal)\Presentacion\obj\Release\Presentacion.pdb
+C:\Users\zeros\Documents\launcher\Presentacion\bin\Release\Presentacion.exe.config
+C:\Users\zeros\Documents\launcher\Presentacion\obj\Release\Interop.WMPLib.dll
+C:\Users\zeros\Documents\launcher\Presentacion\obj\Release\AxInterop.WMPLib.dll
+C:\Users\zeros\Documents\launcher\Presentacion\obj\Release\Presentacion.vbproj.ResolveComReference.cache

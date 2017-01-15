@@ -1,0 +1,15 @@
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\bin\Release\Logica.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\bin\Release\Logica.pdb
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\bin\Release\Logica.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\bin\Release\Datos.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\bin\Release\Entidades.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\bin\Release\Datos.pdb
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\bin\Release\Datos.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\bin\Release\Entidades.pdb
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\bin\Release\Entidades.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\obj\Release\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\obj\Release\Logica.Resources.resources
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\obj\Release\Logica.vbproj.GenerateResource.Cache
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\obj\Release\Logica.dll
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\obj\Release\Logica.xml
+C:\Users\carlo\Documents\Visual Studio 2013\Projects\Launcher(WoW-Letal)\Logica\obj\Release\Logica.pdb
